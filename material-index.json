@@ -1,0 +1,22 @@
+[
+  {
+    "path": "fixtures/charges.csv",
+    "sha256": "17f54dfcf09916067444317fbde4b2903cc252f771067c7dcab700d150ba9c16",
+    "size_bytes": 45
+  },
+  {
+    "path": "fixtures/edges.csv",
+    "sha256": "548eeb5e8461d58676d95e925fcee3fc30bccecfec8f7198c949c026bf7dd964",
+    "size_bytes": 48
+  },
+  {
+    "path": "fixtures/hierarchy.json",
+    "sha256": "3f76ab163e3c35e57e25a67c9e4746978880d4a42d9416dc83ff84d23bd4a4ec",
+    "size_bytes": 256
+  },
+  {
+    "path": "fixtures/nodes.json",
+    "sha256": "b0d023565418ff5d3013a1e23d4e957e0e7ac4cfc1d41572bd67c33671ad5e32",
+    "size_bytes": 77
+  }
+]

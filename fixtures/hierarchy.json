@@ -1,0 +1,18 @@
+{
+  "target_sets": [
+    [
+      "b",
+      "c"
+    ],
+    [
+      "b",
+      "r"
+    ],
+    [
+      "r"
+    ]
+  ],
+  "negative_rounding": "allocate_absolute_then_restore_sign",
+  "tie_break": "target_key_ascending",
+  "frontier_unmatched": "UNASSIGNED"
+}
